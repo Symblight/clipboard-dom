@@ -3,10 +3,18 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "author": "Symblight",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symblight/copy-dom-js.git"
+  },
+  "keywords": [
+    "copyclipboard",
+    "dom",
+    "html"
+  ]
 }
